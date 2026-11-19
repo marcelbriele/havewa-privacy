@@ -33,8 +33,8 @@
       89160 Dornstadt<br>
       Vertreten durch die WEG-Verwaltung<br>
       E-Mail:
-      <a href="mailto:marcel.briele@icloud.com">
-        marcel.briele@icloud.com
+      <a href="mailto:weg-gartenstrasse57@gmx.de">
+        weg-gartenstrasse57@gmx.de
       </a>
     </p>
   </section>
@@ -138,8 +138,8 @@
     <h2>8. Kontakt</h2>
     <p>
       Datenschutzanfragen können an
-      <a href="mailto:marcel.briele@icloud.com">
-        marcel.briele@icloud.com
+      <a href="mailto:weg-gartenstrasse57@gmx.de">
+        weg-gartenstrasse57@gmx.de
       </a>
       gerichtet werden.
     </p>
